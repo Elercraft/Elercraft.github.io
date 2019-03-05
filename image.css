@@ -1,6 +1,6 @@
 body{
   background-image:url("https://i.imgur.com/nsHRQVl.jpg");
-  
+  background-repeat:no-repeat;
   background-attachment: fixed;
   background-position: center;
   backgrounf-size:cover;
